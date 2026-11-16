@@ -1,0 +1,13 @@
+# Python / Django
+myvenv/
+.venv/
+__pycache__/
+*.pyc
+db.sqlite3
+static/
+
+# Frontend (por si usas Node)
+node_modules/
+
+# Editor
+.idea/
