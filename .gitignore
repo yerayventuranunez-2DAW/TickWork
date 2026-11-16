@@ -6,8 +6,5 @@ __pycache__/
 db.sqlite3
 static/
 
-# Frontend (por si usas Node)
-node_modules/
-
 # Editor
 .idea/
